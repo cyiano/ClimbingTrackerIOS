@@ -2,7 +2,7 @@
 //  ClimbingTrackerApp.swift
 //  ClimbingTracker
 //
-//  Created by 江惠娟 on 2026/3/11.
+//  App入口
 //
 
 import SwiftUI
